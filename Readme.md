@@ -1,5 +1,5 @@
 Drag&Drop
 
-Put a the circle in the same colour box.
+Put the ball in the box with the same color.
 
-Live Demo: https://zikoart2013.github.io/DragandDrop/
+Live Demo: https://zikoart2013.github.io/DragDrop/
